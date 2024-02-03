@@ -9,7 +9,7 @@
 
 ## Решение 1
 
-![Название скриншота 1](https://github.com/mistermedved01/hw-sflt-03/blob/master/rsync01.jpg)
+![Название скриншота 1](https://github.com/mistermedved01/devops-netology/blob/master/03-sflt/img/01.jpg)
 
 ## Задание 2
 
@@ -23,12 +23,12 @@
 
 Скрипт:
 
-![Название скриншота 1](https://github.com/mistermedved01/hw-sflt-03/blob/master/script.jpg)
+![Название скриншота 1](https://github.com/mistermedved01/devops-netology/blob/master/03-sflt/img/02.jpg)
 
 Cron:
 
-![Название скриншота 1](https://github.com/mistermedved01/hw-sflt-03/blob/master/crontab.jpg)
+![Название скриншота 1](https://github.com/mistermedved01/devops-netology/blob/master/03-sflt/img/03.jpg)
 
 Логи:
 
-![Название скриншота 1](https://github.com/mistermedved01/hw-sflt-03/blob/master/script_log.jpg)
+![Название скриншота 1](https://github.com/mistermedved01/devops-netology/blob/master/03-sflt/img/04.jpg)
