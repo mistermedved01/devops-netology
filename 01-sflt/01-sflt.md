@@ -24,16 +24,16 @@
 
 Первый сервер
 
-![Название скриншота 1](https://github.com/mistermedved01/hw-sflt-01/blob/master/keepalived_conf01.jpg)
+![Название скриншота 1](https://github.com/mistermedved01/devops-netology/blob/master/01-sflt/img/01.jpg)
 
 Второй сервер
 
-![Название скриншота 1](https://github.com/mistermedved01/hw-sflt-01/blob/master/keepalived_conf02.jpg)
+![Название скриншота 1](https://github.com/mistermedved01/devops-netology/blob/master/01-sflt/img/02.jpg)
 
 Скрипт переключения
 
-![Название скриншота 1](https://github.com/mistermedved01/hw-sflt-01/blob/master/notify-web.jpg)
+![Название скриншота 1](https://github.com/mistermedved01/devops-netology/blob/master/01-sflt/img/03.jpg)
 
 Логи
 
-![Название скриншота 1](https://github.com/mistermedved01/hw-sflt-01/blob/master/keepalived_log.jpg)
+![Название скриншота 1](https://github.com/mistermedved01/devops-netology/blob/master/01-sflt/img/04.jpg)
