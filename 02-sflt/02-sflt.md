@@ -9,9 +9,9 @@
 
 ## Решение 1
 
-![Название скриншота 1](https://github.com/mistermedved01/hw-sflt-02/blob/master/haproxy_cfg_01.jpg)
+![Название скриншота 1](https://github.com/mistermedved01/devops-netology/blob/master/02-sflt/img/01.jpg)
 
-![Название скриншота 1](https://github.com/mistermedved01/hw-sflt-02/blob/master/haproxy_stats.jpg)
+![Название скриншота 1](https://github.com/mistermedved01/devops-netology/blob/master/02-sflt/img/02.jpg)
 
 
 ## Задание 2
@@ -23,6 +23,6 @@
 
 ## Ответ 2
 
-![Название скриншота 1](https://github.com/mistermedved01/hw-sflt-02/blob/master/haproxy_cfg_02.jpg)
+![Название скриншота 1](https://github.com/mistermedved01/devops-netology/blob/master/02-sflt/img/03.jpg)
 
-![Название скриншота 1](https://github.com/mistermedved01/hw-sflt-02/blob/master/haproxy_cfg_02_01.jpg)
+![Название скриншота 1](https://github.com/mistermedved01/devops-netology/blob/master/02-sflt/img/04.jpg)
