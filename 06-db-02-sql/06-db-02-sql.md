@@ -21,7 +21,9 @@ docker run --name postgre1 -d -e POSTGRES_HOST_AUTH_METHOD=trust -v C:/Temp/sql_
 
 `-v C:/Temp/sql_base:/var/lib/postgresql/data` - монтирует каталог `C:/Temp/sql_base` с хост-системы в каталог `/var/lib/postgresql/data` внутри контейнера. 
 
-`-v C:/Temp/sql_backup:/tmp/backup` - монтирует каталог `C:/Temp/sql_backup` с хост-системы в каталог `/tmp/backup внутри контейнера`. 
+`-v C:/Temp/sql_backup:/tmp/backup` - монтирует каталог `C:/Temp/sql_backup` с хост-системы в каталог `/tmp/backup внутри контейнера`.
+
+![Image alt](https://github.com/mistermedved01/devops-netology/blob/master/06-db-02-sql/img/01.jpg)
 
 Это позволяет хранить данные PostgreSQL на хост-системе.
 
