@@ -8,4 +8,4 @@
 
 [Kubernetes. Часть 1](https://github.com/mistermedved01/devops-netology/blob/master/svirt-22_virtualization/6-05-part_1-sdvps-kubernetes/6-05-new.md)
 
-[Docker. Часть 2](https://github.com/mistermedved01/devops-netology/blob/master/svirt-22_virtualization/6-06-part_2-sdvps-kubernetes/6-06-new.md)
+[Kubernetes. Часть 2](https://github.com/mistermedved01/devops-netology/blob/master/svirt-22_virtualization/6-06-part_2-sdvps-kubernetes/6-06-new.md)
